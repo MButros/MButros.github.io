@@ -24,7 +24,12 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 * Partial Differential Equations: especially elliptical
 * Ordinary Differential Equation
 * Numerical Analysis and Computation
-* 
+
+### Other
+* Data Mining and Wrangling
+* Data Analysis
+* Machine Learning
+* Artificial Intelligence
 
 ## Hobbies
 * Hiking
@@ -32,4 +37,7 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 * Reading
 * Listening to music
 * Cooking
-* Martial arts: aikido, muay thai, jiu-jitsu
+* Martial arts:
+  * aikido
+  * muay thai
+  *  jiu-jitsu
