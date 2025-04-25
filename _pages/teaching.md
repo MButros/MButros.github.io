@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# I am not currently teaching any classes
+## **I am not currently teaching any classes**
 
 ## Courses I have taught
 ### Mathematics Courses:
