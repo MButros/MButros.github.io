@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "AI4OPT Projects"
-permalink: /Projects/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
