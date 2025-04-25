@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Mathematics, Northern Arizona University, 2000
+  * [Nonlinear Elliptic Value Problems: A Numerical Approach](../files/Thesis.pdf) 
 * B.S. in Applied Mathematics, University of California, Irvine , 1994
 * A.S., Math and Science, Victor Valley College, 1991
 
@@ -60,7 +61,7 @@ Publications
 * Student’s Solution Manual for Calculus for the Life Sciences, by Bittinger, Brand, and Quintanella, Addison-Wesley 2006
 * Printed Test Bank for Introductory Statistics, Seventh Edition, by Neil Weis, Addison-Wesley 2004
 * Printed Test Bank for Elementary Statistics, Sixth Edition, by Neil Weis, Addison-Wesley 2004
-* [Nonlinear Elliptic Value Problems: A Numerical Approach](../files/Thesis.pdf), (Thesis), NAU 2000
+* Nonlinear Elliptic Value Problems: A Numerical Approach, (Thesis), NAU 2000
   
 Talks
 ======
