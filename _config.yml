@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"mbutros" # Replace this with you Bluesky username
+  bluesky          : "mbutros" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # michael-butros-7544707
+  linkedin         : michael-butros-7544707
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Butros
+  twitter          : Butros
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
