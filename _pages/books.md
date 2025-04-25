@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Books"
+permalink: /books/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 ## “THE MAN WHO DOESN’T READ GOOD BOOKS HAS NO ADVANTAGE OVER THE MAN WHO CAN’T READ THEM” – Mark Twain
 
 ### Here is a list of books I enjoyed reading:
