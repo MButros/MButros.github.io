@@ -97,6 +97,7 @@ Grants (at VVC)
 
 Awards
 ======
+* Excellence Award, Georgia Institute of Technology, 2025
 * Best Mentor Award, VVC Students 2019
 * Reverse Teacher’s Pet Award, VVC 2013
 * Students Choice Award, VVC 2010
