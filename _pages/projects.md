@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+## These are the projects I am involved with at AI4OPT:
+
 ## K-12 Initiatives
   * [Seth Bonder Camps](https://www.ai4opt.org/seth-bonder-camp)
   * [High School Teacher Training Cohort](https://www.ai4opt.org/education/high-school-teacher-training) 
