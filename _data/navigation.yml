@@ -14,8 +14,8 @@ main:
   - title: "Books"
     url: /books/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
