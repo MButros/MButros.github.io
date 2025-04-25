@@ -22,7 +22,7 @@ repository               : "MButros.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "MichaelButros.jpg"
   name             : "Michael Butros"
   pronouns         : # example: "she/her"  
   bio              : "Director of Education - AI4OPT"
