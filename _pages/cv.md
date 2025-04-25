@@ -50,14 +50,58 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Printed Test Bank for Introductory Statistics, Tenth Edition, by Neil Weis, Addison-Wesley 2014
+* Printed Test Bank for Elementary Statistics, Ninth Edition, by Neil Weis, Addison-Wesley 2014
+* Printed Test Bank for Introductory Statistics, Ninth Edition, by Neil Weis, Addison-Wesley 2011
+* Printed Test Bank for Elementary Statistics, Eighth Edition, by Neil Weis, Addison-Wesley 2011
+* Printed Test Bank for Introductory Statistics, Eighth Edition, by Neil Weis, Addison-Wesley 2007
+* Printed Test Bank for Elementary Statistics, Seventh Edition, by Neil Weis, Addison-Wesley 2007
+* Instructor’s Solution Manual for Calculus for the Life Sciences, by Bittinger, Brand, and Quintanella, Addison-Wesley 2006
+* Student’s Solution Manual for Calculus for the Life Sciences, by Bittinger, Brand, and Quintanella, Addison-Wesley 2006
+* Printed Test Bank for Introductory Statistics, Seventh Edition, by Neil Weis, Addison-Wesley 2004
+* Printed Test Bank for Elementary Statistics, Sixth Edition, by Neil Weis, Addison-Wesley 2004
+* Nonlinear Elliptic Value Problems: A Numerical Approach, (Thesis), NAU 2000
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Un-Grading: Standard Based Grading, VVC Professional Development Event 2021
+* Web-Enhanced Classes, VVC Professional Development Event 2021
+* A computational Approach to University Physics, AAPT Winter Meeting 2020
+* Undergraduate Computational Research Opportunities in Introductory Courses, AAPT Summer Meeting 2018
+* Engaging STEM Students Through Partnerships, CUR URPD Conference 2017
+* An Inquiry Based Learning Approach to University Physics, R. L. Moore Conference 2013
+* Integration by Parts and the Hydrogen Atom, VVC 2003
+* Matrices in Physics Education, VVC 2002
+* Teaching as a Career, VVC 2001
+* Nonlinear Elliptical Boundary Value Problems, MAA Southwest Regional Conference, 2000
+* Bifurcation Diagrams and Stability of Critical Points, NAU Applied Math Seminar Series, 2000  
   
+Grants (at VVC)
+===============
+* VVC Faculty Grant Program submitted 2022 – Student Research (Funded for $2400)
+* NSF -DUE Grant Team Member with VVC, Cal Poly Pomona, Mt. San Antonio, Citrus College. Submitted 2022. (Funded for $998,453 for 2023 – 2026)
+* NSF – CREST II Grant Team Member with VVC, COD, and CSUSB submitted 2019.  (Funded for $5 million for 2020 – 2024)
+* California Space Grant Consortium Grant with VVC, UCSD, and other California Community Colleges.  Submitted 2014 (Funded for 1 million over 2 years)
+* NSF – CREST Grant Team Member with VVC, COD, and CSUSB submitted 2013.  (Funded for $5 million for 2014 – 2019)
+* VVC Faculty Grant Program submitted 2018 – Student Research (Funded for $2400)
+* VVC Faculty Grant Program submitted 2018 – Alternative Fuel Vehicle (Funded for $1500)
+* VVC Faculty Grant Program submitted 2017 – Student Research (Funded for $2400)
+* VVC Faculty Grant Program submitted 2017 – Design, build, launch a Rocket.  (Funded for $2500)
+* Rising Data NASA Grant Consortium Team Member submitted 2016.  (Funded for 2 years 2017 – 2018)
+* California Space Grant Consortium Team Member submitted 2015.  (Funded 2015 – 2017)
+* NSF – CREST Grant Team Member with VVC, COD, and CSUSB submitted 2014.  (Funded for $5 million for 2015 – 2019)
+* VVC Faculty Grant Program submitted 2009. (Funded for $1250)
+* Title V Grant Team Member submitted 2004. (Funded for $2.4 million for 2005 – 2010)
+* VVC Faculty Grant Program submitted 2003. (Funded for $2500)  
 
+Awards
+======
+* Best Mentor Award, VVC Students 2019
+* Reverse Teacher’s Pet Award, VVC 2013
+* Students Choice Award, VVC 2010
+* Student Choice Award, VVC 2009
+* Student Choice Award, VVC 2008
+* Who’s Who Among America’s Teachers 2006-2007
+* Graduate Teaching Assistant of the Year, NAU 2000
+* Tutor of the Semester, ASU Athletics Department, 1995
+* Tutor of the Year, VVC 1991
