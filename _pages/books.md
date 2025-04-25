@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## “THE MAN WHO DOESN’T READ GOOD BOOKS HAS NO ADVANTAGE OVER THE MAN WHO CAN’T READ THEM” – Mark Twain
+## “THE MAN (PERSON) WHO DOESN’T READ GOOD BOOKS HAS NO ADVANTAGE OVER THE MAN (PERSON) WHO CAN’T READ THEM” – Mark Twain
 
 ### Here is a list of books I enjoyed reading:
 ### Non – Fiction
