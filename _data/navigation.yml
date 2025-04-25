@@ -11,14 +11,14 @@ main:
   - title: "About Me"
     url: /about me/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Books"
     url: /books/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
     
   - title: "CV"
     url: /cv/
