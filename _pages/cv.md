@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Mathematics, Northern Arizona University, 2000
-  * [Nonlinear Elliptic Value Problems: A Numerical Approach](../files/Thesis.pdf) 
+  * Thesis: [Nonlinear Elliptic Value Problems: A Numerical Approach](../files/Thesis.pdf) 
 * B.S. in Applied Mathematics, University of California, Irvine , 1994
 * A.S., Math and Science, Victor Valley College, 1991
 
