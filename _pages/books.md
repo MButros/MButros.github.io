@@ -23,7 +23,7 @@ redirect_from:
 * Blink by Malcolm Gladwell
 * The Tipping Point by Malcolm Gladwell
 * Physics for Future Presidents: The Science Behind the Headlines by Richard Muller **(HIGHLY RECOMMENDED)**
-* The Last Lecture by Randy Pausch *(HIGHLY RECOMMENDED)*
+* The Last Lecture by Randy Pausch **(HIGHLY RECOMMENDED)**
 * The Trouble With Physics: The Rise of String Theory, the Fall of a Science, and What Comes Next by Lee Smolin
 * Connections by James Burke **(HIGHLY RECOMMENDED)**
 * Common Sense of Science by Jacob Bronowski
@@ -36,13 +36,13 @@ redirect_from:
 * The Universe in a Nutshell by Stephen Hawking
 * Six Days of War : June 1967 and the Making of the Modern Middle East by Michael Oren
 * The Tao of Physics by Fritjof Capra
-* The Science of God by Gerald Schroeder *(HIGHLY RECOMMENDED)*
+* The Science of God by Gerald Schroeder **(HIGHLY RECOMMENDED)**
 * A Brief History of Time by Stephen Hawking
 * The Physics of Consciousness by Evan Walker
 * Einstein’s Refrigerator and Other Stories from the Flip Side of History by Steve Silverman
 * Euler: The Master of Us All by William Dunham
 * The Middle East: A Brief History of the Last 2000 Years by Bernard Lewis
-* “Surely You’re Joking Mr. Feynman” … Adventures of a Curious Character by Richard Feynman *(HIGHLY RECOMMENDED)*
+* “Surely You’re Joking Mr. Feynman” … Adventures of a Curious Character by Richard Feynman **(HIGHLY RECOMMENDED)**
 * “What Do You Care What Other People Think?” …Further Adventures of a Curious Character by Richard Feynman
 * How Full is Your Bucket by Tom Roth and Donald Clifton
 * Now, Discover Your Strengths by Marcus Buckingham and Donald Clifton
@@ -53,7 +53,7 @@ redirect_from:
 * A Mathematician’s Apology by G.H. Hardy
 * King Abdullah, Britain and the making of Jordan by Mary Wilson
 * A History of Jordan by Philip Robins
-* American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer by Kai Bird and Martin Sherwin
+* American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer by Kai Bird and Martin Sherwin **(HIGHLY RECOMMENDED)**
 
 ### Fiction
 * The Bourne Supremacy by Robert Ludlum
