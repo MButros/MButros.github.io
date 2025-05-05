@@ -11,7 +11,8 @@ redirect_from:
 
 ## K-12 Initiatives
   * [Seth Bonder Camps](https://www.ai4opt.org/seth-bonder-camp)
-  * [High School Teacher Training Cohort](https://www.ai4opt.org/education/high-school-teacher-training) 
+  * [High School Teacher Training Cohort](https://www.ai4opt.org/education/high-school-teacher-training)
+  # * [AI4OPT High School Internship Program](https://www.ai4opt.org/education/high-school-internship-program)
     
 ## Higher Education Initiatives
   * [Faculty Training Program](https://www.ai4opt.org/education/faculty-training)
