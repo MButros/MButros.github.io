@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+##  Miscellaneous Data Related Projects
+
 * [Home Price Index Factors - Regression Analysis ](../files/AnalysisButros.pdf) 
