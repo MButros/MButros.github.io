@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+* [Home Price Index Factors - Regression Analysis ](../files/AnalysisButros.pdf) 
