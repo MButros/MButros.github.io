@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellaneous Data Related Projects "
+title: "Stuff"
 permalink: /Stuff/
 author_profile: true
 redirect_from:
