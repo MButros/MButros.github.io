@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Books"
+title: "My Book Reading List"
 permalink: /books/
 author_profile: true
 redirect_from:
