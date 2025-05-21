@@ -23,8 +23,8 @@ main:
   - title: "CV"
     url: /cv/
 
- # - title: "Data Code"
- #   url: /stuff/
+  - title: "Data Code"
+    url: /stuff/
     
  # - title: "Blog Posts"
  #   url: /year-archive/ 
