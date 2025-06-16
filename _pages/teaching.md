@@ -12,9 +12,6 @@ redirect_from:
 ## **I am not currently teaching any classes**, but here is list of courses I have taught
 ### Mathematics Courses:
 
-![Bessel Function Vibraying Drum](../files/Drum_vibration_model12.gif)
-
-
 - Introduction to Statistics 
 - Finite Mathematics
 - College Algebra
@@ -28,7 +25,6 @@ redirect_from:
 
 ### Physics and Engineering Courses:
 
-![Double Pendulum](../files/demo.gif)
 - Introductory Physics
 - University Physics I:  Mechanics
 - University Physics II: Fluid Dynamics, Gravitation, Period Motion, Mechanical Waves, and Thermodynamics
