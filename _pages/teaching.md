@@ -25,6 +25,8 @@ redirect_from:
 
 ### Physics and Engineering Courses:
 
+<img src="../files/demo.gif" style="display: block; margin: auto;" />
+
 - Introductory Physics
 - University Physics I:  Mechanics
 - University Physics II: Fluid Dynamics, Gravitation, Period Motion, Mechanical Waves, and Thermodynamics
