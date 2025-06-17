@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[](../images/demo.gif)
+
 ## **I am not currently teaching any classes**, but here is list of courses I have taught
 ### Mathematics Courses:
 
