@@ -13,7 +13,7 @@ redirect_from:
 
 ### Here is a list of books I enjoyed reading:
 ### Non – Fiction
-* Great Physicists by William H. Cropper
+* Great Physicists: The Life and Times of Leading Physicists from Galileo to Hawking by William H. Cropper
 * Grit: The Power of Passion and Perseverance by Angela Duckworth **(HIGHLY RECOMMENDED)**
 * How to Teach Quantum Physics to Your Dog by Chad Orzel
 * Ungrading: Why Rating Students Undermines Learning (and What to Do Instead) by Susan Bloom
