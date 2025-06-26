@@ -44,9 +44,9 @@ Work experience
 Skills
 ======
 * Python for Data Science
-* R for Data Science
-* Maple and Mathematica, and MATLAB Computer Algebra Systems
-* CANVAS, Blackboard and Moodle Course Management Systems
+* R/RStudio for Data Science
+* Maple, Mathematica, and MATLAB Computer Algebra Systems
+* CANVAS, Blackboard, and Moodle Course Management Systems
 * LaTeX Typesetting Software
 
 Publications
