@@ -16,6 +16,7 @@ redirect_from:
     
 ## Higher Education Initiatives
   * [Faculty Training Program](https://www.ai4opt.org/education/faculty-training)
+  * [Executive Committee Member - 2025 STEME Conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/)
 
 ## AI4OPT Grants
   * [Expand AI with Clark Atlanta University](https://www.ai4opt.org/aihubcau)
