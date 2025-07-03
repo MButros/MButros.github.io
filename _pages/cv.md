@@ -26,7 +26,7 @@ Work experience
   * Victor Valley College
   * Duties included:
     * Taught undergraduate physics and mathematics classes
-    * Developed new programs at VVC (A.S. in Physics, A.S. inPre-Engineering)
+    * Developed new programs at VVC (A.S. in Physics, A.S. in Pre-Engineering)
     * Conducted student research projects
     * Served as department chair
     * Served on the curriculum committee
