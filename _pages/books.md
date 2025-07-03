@@ -14,19 +14,19 @@ redirect_from:
 ### Here is a list of books I enjoyed reading:
 ### Non – Fiction
 * Great Physicists: The Life and Times of Leading Physicists from Galileo to Hawking by William H. Cropper
-* Grit: The Power of Passion and Perseverance by Angela Duckworth **(HIGHLY RECOMMENDED)**
+* Grit: The Power of Passion and Perseverance by Angela Duckworth `HIGHLY RECOMMENDED`
 * How to Teach Quantum Physics to Your Dog by Chad Orzel
 * Ungrading: Why Rating Students Undermines Learning (and What to Do Instead) by Susan Bloom
-* Specification Grading: Restoring Rigor, Motivating Students, and Saving Faculty Time by Linda B. Nelson **(HIGHLY RECOMMENDED)**
+* Specification Grading: Restoring Rigor, Motivating Students, and Saving Faculty Time by Linda B. Nelson `HIGHLY RECOMMENDED`
 * Galileo’s Daughter: A historical Memoir of Science, Faith, and Love by Dava Sobel
 * The Power of Habit: Why we Do What We Do in Life and in Business by Charles Duhigg
 * Outliers by Malcolm Gladwell
 * Blink by Malcolm Gladwell
 * The Tipping Point by Malcolm Gladwell
-* Physics for Future Presidents: The Science Behind the Headlines by Richard Muller **(HIGHLY RECOMMENDED)**
-* The Last Lecture by Randy Pausch **(HIGHLY RECOMMENDED)**
+* Physics for Future Presidents: The Science Behind the Headlines by Richard Muller `HIGHLY RECOMMENDED`
+* The Last Lecture by Randy Pausch `HIGHLY RECOMMENDED`
 * The Trouble With Physics: The Rise of String Theory, the Fall of a Science, and What Comes Next by Lee Smolin
-* Connections by James Burke **(HIGHLY RECOMMENDED)**
+* Connections by James Burke `HIGHLY RECOMMENDED`
 * Common Sense of Science by Jacob Bronowski
 * The Math Gene: How Mathematical Thinking Evolved & Why Numbers Are Like Gossip by Keith Devlin
 * The Elegant Universe by Brian Greene
@@ -37,13 +37,13 @@ redirect_from:
 * The Universe in a Nutshell by Stephen Hawking
 * Six Days of War : June 1967 and the Making of the Modern Middle East by Michael Oren
 * The Tao of Physics by Fritjof Capra
-* The Science of God by Gerald Schroeder **(HIGHLY RECOMMENDED)**
+* The Science of God by Gerald Schroeder `HIGHLY RECOMMENDED`
 * A Brief History of Time by Stephen Hawking
 * The Physics of Consciousness by Evan Walker
 * Einstein’s Refrigerator and Other Stories from the Flip Side of History by Steve Silverman
 * Euler: The Master of Us All by William Dunham
 * The Middle East: A Brief History of the Last 2000 Years by Bernard Lewis
-* “Surely You’re Joking Mr. Feynman” … Adventures of a Curious Character by Richard Feynman **(HIGHLY RECOMMENDED)**
+* “Surely You’re Joking Mr. Feynman” … Adventures of a Curious Character by Richard Feynman `HIGHLY RECOMMENDED`
 * “What Do You Care What Other People Think?” …Further Adventures of a Curious Character by Richard Feynman
 * How Full is Your Bucket by Tom Roth and Donald Clifton
 * Now, Discover Your Strengths by Marcus Buckingham and Donald Clifton
@@ -54,7 +54,7 @@ redirect_from:
 * A Mathematician’s Apology by G.H. Hardy
 * King Abdullah, Britain and the making of Jordan by Mary Wilson
 * A History of Jordan by Philip Robins
-* American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer by Kai Bird and Martin Sherwin **(HIGHLY RECOMMENDED)**
+* American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer by Kai Bird and Martin Sherwin `HIGHLY RECOMMENDED`
 
 ### Fiction
 * The Bourne Supremacy by Robert Ludlum
@@ -64,9 +64,9 @@ redirect_from:
 * The Protector by David Morrell
 * Assumed Identity by David Morrell
 * Extreme Denial by David Morrell
-* Brotherhood of the Rose by David Morrell **(HIGHLY RECOMMENDED)**
-* The League of Night and Fog by David Morrell **(HIGHLY RECOMMENDED)**
-* Fraternity of the Stone by David Morrell **(HIGHLY RECOMMENDED)**
+* Brotherhood of the Rose by David Morrell `HIGHLY RECOMMENDED`
+* The League of Night and Fog by David Morrell `HIGHLY RECOMMENDED`
+* Fraternity of the Stone by David Morrell `HIGHLY RECOMMENDED`
 * Timeline by Michael Crichton
 * The Alchemist by Paulo Coelho
 * Without Remorse by Tom Clancy
