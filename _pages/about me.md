@@ -33,8 +33,10 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 * Hiking
   * My greatest accomplishment as a hiker came on 10/17/1999 when I hiked the Grand Canyon from the South rim to the North rim.  A       hike which took 11.5 hours.  It was the most difficult and most rewarding adventure I have experienced to date. 
 * Reading
+  * Click on the [Books](https://mbutros.github.io/books/) link for a list of books I enjoyed reading and some recommendations   
 * Listening to music
-* Cooking
+  * Mostly Arabic music, but I listen to all types of music from around teh world 
+* Cooking 
 * Martial arts:
   * aikido
   * muay thai
