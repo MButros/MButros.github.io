@@ -65,7 +65,7 @@ Publications
   
 Talks
 ======
-* How Can AI Help Solve Major Societal Challenges, Gwinnett School of Mathematics, Science and Technology, Hackathon, 2025
+* How Can AI Help Solve Major Societal Challenges, Gwinnett School of Mathematics, Science and Technology, 2025
 * Un-Grading: Standard Based Grading, VVC Professional Development Event 2021
 * Web-Enhanced Classes, VVC Professional Development Event 2021
 * A computational Approach to University Physics, AAPT Winter Meeting 2020
