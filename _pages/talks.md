@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Talks and Presentations"
+permalink: /talks/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
 - How Can AI Help Solve Major Societal Challenges, Gwinnett School of Mathematics, Science and Technology, 2025
 - Un-Grading: Standard Based Grading, VVC Professional Development Event 2021
 - Web-Enhanced Classes, VVC Professional Development Event 2021
