@@ -14,6 +14,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Talks"
+    url: /Talks/
+
   - title: "Books to Read"
     url: /books/    
 
@@ -22,9 +25,6 @@ main:
     
   - title: "CV"
     url: /cv/
-
-  - titke: "Talks"
-    url: /Talks/
 
  # - title: "Data Projects"
  #   url: /stuff/
