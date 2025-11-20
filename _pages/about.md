@@ -17,5 +17,3 @@ Before joining AI4OPT, I was a professor of physics and mathematics at Victor Va
 
 While at VVC, I served as the chair of the Physics Department, the VVC Physics Club Advisor, and the Society of Physics Students Chapter Advisor.
 
-## News
-* 
