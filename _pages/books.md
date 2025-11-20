@@ -13,6 +13,7 @@ redirect_from:
 
 ### Here is a list of books I enjoyed reading:
 ### Non – Fiction
+* The Physical World: An Inspirational Tour of Fundamental Physics by Nicholas Manton and Nicholas Mee
 * Great Physicists: The Life and Times of Leading Physicists from Galileo to Hawking by William H. Cropper
 * Grit: The Power of Passion and Perseverance by Angela Duckworth <mark>HIGHLY RECOMMENDED</mark>
 * How to Teach Quantum Physics to Your Dog by Chad Orzel
