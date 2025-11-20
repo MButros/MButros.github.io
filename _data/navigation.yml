@@ -26,8 +26,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Data Projects"
-    url: /stuff/
+ # - title: "Data Projects"
+ #   url: /stuff/
     
  # - title: "Blog Posts"
  #   url: /year-archive/ 
