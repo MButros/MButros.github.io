@@ -10,12 +10,18 @@
 main:
   - title: "About Me"
     url: /about me/
+    
+# - title: "News"
+#   url: /news/
 
   - title: "Projects"
     url: /projects/
 
   - title: "Talks and Presentations"
     url: /talks/
+
+ # - title: "Data Projects"
+ #   url: /stuff/
 
   - title: "Books to Read"
     url: /books/    
@@ -25,12 +31,6 @@ main:
     
   - title: "CV"
     url: /cv/
-
-# - title: "News"
-#   url: /news/
-
- # - title: "Data Projects"
- #   url: /stuff/
     
  # - title: "Blog Posts"
  #   url: /year-archive/ 
