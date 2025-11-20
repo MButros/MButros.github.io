@@ -16,5 +16,5 @@ redirect_from:
 * **July 21 - 25, 2025:** [Seth Bonder Camp](https://www.ai4opt.org/sbc-2025) - Level 4 (Generative and Agentic AI) - Offered for the first time.
 * **July 21 - August 15, 2025:** First offering of the [AI4OPT High School Internship Program.](https://www.ai4opt.org/education/high-school-internship-program)
 * **Juy 14-18, 2025:** [Seth Bonder Camp](https://www.ai4opt.org/sbc-2025) - Level 3 (Deep Learning). 
-* **June 27 - July 3, 2025** First High School [Teacher Training Program.](https://www.ai4opt.org/education/high-school-teacher-training)
+* **June 27 - July 3, 2025** First High School [Teacher Training Program.]([https://www.ai4opt.org/education/high-school-teacher-training](https://www.ai4opt.org/news-events/high-school-teacher-training-empowers-educators-inspire-next-generation-ai-creators)
 * **June 13- 19, 2025:** [Seth Bonder Camp](https://www.ai4opt.org/sbc-2025) - Levels 1 and 2 - Offered concurrently.
