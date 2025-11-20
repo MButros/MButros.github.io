@@ -35,7 +35,7 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 * Reading
   * Click on the [Books](https://mbutros.github.io/books/) link for a list of books I enjoyed reading and some recommendations   
 * Listening to music
-  * Mostly Arabic music, but I listen to all types of music from around teh world 
+  * Mostly Arabic music, but I listen to all types of music from around the world 
 * Cooking 
 * Martial arts:
   * aikido
