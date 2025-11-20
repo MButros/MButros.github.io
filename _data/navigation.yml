@@ -26,8 +26,8 @@ main:
   - title: "CV"
     url: /cv/
 
- - title: "News"
-   url: /news/
+# - title: "News"
+#   url: /news/
 
  # - title: "Data Projects"
  #   url: /stuff/
