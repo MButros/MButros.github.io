@@ -16,3 +16,6 @@ My involvement with AI4OPT began in Summer 2022 as a participant in the first co
 Before joining AI4OPT, I was a professor of physics and mathematics at Victor Valley College ([VVC](http://www.vvc.edu)), a two-year community college in Southern California, between 2000-2024. As a professor I was interested in the use of technology and computation in the introductory physics and mathematics courses.  I also used Mastery Grading, Peer Instruction, Inquiry Based Learning, and Flipped Classrooms techniques.  
 
 While at VVC, I served as the chair of the Physics Department, the VVC Physics Club Advisor, and the Society of Physics Students Chapter Advisor.
+
+## News
+* 
