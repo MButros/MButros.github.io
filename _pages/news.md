@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* **November 21, 2025:** presentation for ![CHARGENorth](../images/1763512963388.jpeg) at North Gwinnet High School.
+* **November 21, 2025:** presentation for ![CHARGENorth](1763512963388.jpeg) at North Gwinnet High School.
 * **November 4, 2025:** attend advisory committee meeting for North Gwinnett High School.
 * **October 25, 2025:** presentation at [Hackathon5.0](https://www.ai4opt.org/news-events/hackgwinnett-50-brings-together-170-students-day-coding-and-innovation) at Gwinnett School of Mathematics, Science, and Technology.
 * **October 13-15, 2025:** visit to UT, Rio Grande Valley, for the [Expand AI ARISE project.](https://www.ai4opt.org/news-events/2025-nsf-expandai-arise-meeting)
