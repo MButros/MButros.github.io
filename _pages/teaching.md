@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## **I am not currently teaching any classes**, but here is list of courses I have taught
+## **I am not currently teaching any classes**, but here is list of courses I have taught, and would not mind teaching again.
+
 ### Mathematics Courses:
 
 - Introduction to Statistics 
