@@ -28,6 +28,8 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 * Data Mining and Wrangling
 * Data Analysis
 * Machine Learning
+* Artificial Intelligence 
+* Statistical Learning
 
 ## Hobbies
 * Hiking
