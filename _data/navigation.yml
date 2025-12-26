@@ -26,8 +26,8 @@ main:
   - title: "Books to Read"
     url: /books/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "CV"
     url: /cv/
