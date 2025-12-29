@@ -20,9 +20,6 @@ main:
   - title: "Talks"
     url: /talks/
 
- # - title: "Data Projects"
- #   url: /stuff/
-
   - title: "Books to Read"
     url: /books/    
 
@@ -34,4 +31,6 @@ main:
     
   - title: "Blog Posts"
     url: /year-archive/ 
- 
+
+#  - title: "Data Projects"
+#   url: /stuff/
