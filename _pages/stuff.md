@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-##  Miscellaneous Data Related Projects
+##  Miscellaneous Data Related Projects 
+#### (done for classes or presentations)
 
 * [Home Price Index Factors - Regression Analysis ](../files/AnalysisButros.pdf)
 * [Big Five European Football Leagues - Statistical Learning ](../files/Report3.pdf)
