@@ -34,7 +34,7 @@ Work experience
 
 * Summers 2022-2024: Visiting Professor 
   * NASA - Armstrong Flight Research Center 
-  * Duties included: Work with a NASA engineer of a student research project
+  * Duties included: Work with a NASA engineer and a student on a research project
 
 * Summers 2014-2018: Visiting Professor 
   * NASA - Armstrong Flight Research Center 
