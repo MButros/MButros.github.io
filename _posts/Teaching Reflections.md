@@ -1,3 +1,11 @@
+---
+title: 'Teaching Reflections'
+date: 2026-01-03
+permalink: /posts/2024/06/blog-post-2/
+tags:
+  - Reflection
+---
+
 # The Rewarding Journey: 24 Years of Teaching Mathematics and Physics at a Community College
 
 After two and a half decades of standing in front of community college classrooms, I find myself reflecting on what made this career so profoundly meaningful. Teaching mathematics and physics at the community college level offered rewards that went far beyond the predictable rhythm of semesters and the satisfaction of a steady paycheck.
