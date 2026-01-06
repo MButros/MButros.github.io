@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* **December 17-20, 2025:** attend [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
+* **December 17-20, 2025:** attended [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
 * **November 21, 2025:** presentation for CHARGENorth at North Gwinnet High School.
-* **November 4, 2025:** attend advisory committee meeting for North Gwinnett High School.
+* **November 4, 2025:** attended advisory committee meeting for North Gwinnett High School.
 * **October 25, 2025:** presentation at [Hackathon5.0](https://www.ai4opt.org/news-events/hackgwinnett-50-brings-together-170-students-day-coding-and-innovation) at Gwinnett School of Mathematics, Science, and Technology.
 * **October 13-15, 2025:** visit to UT, Rio Grande Valley, for the [Expand AI ARISE project.](https://www.ai4opt.org/news-events/2025-nsf-expandai-arise-meeting)
 * **July 21-25, 2025:** [Seth Bonder Camp](https://www.ai4opt.org/sbc-2025) - Level 4 (Generative and Agentic AI) - Offered for the first time.
