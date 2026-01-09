@@ -1,0 +1,238 @@
+---
+title: 'Kernel Regression'
+date: 2026-01-09
+permalink: /posts/2026/01/blog-post-3/
+tags:
+  - Education
+  - R 
+---
+
+# Kernel Regression: Understanding Nadaraya-Watson and Priestley-Chao Estimators
+
+Kernel regression is a non-parametric technique that estimates the relationship between variables without assuming a specific functional form. Unlike linear or polynomial regression, kernel methods let the data speak for themselves, making them particularly useful when the underlying relationship is unknown or complex.
+
+This post explores two fundamental kernel regression estimators: the **Nadaraya-Watson** estimator and the **Priestley-Chao** estimator, along with the various kernel functions that power them.
+
+## What Are Kernel Functions?
+
+At the heart of kernel regression are **kernel functions** - mathematical functions that assign weights to data points based on their distance from a target point. Points closer to the target receive higher weights, while distant points contribute less to the estimate.
+
+The implementation showcases seven commonly used kernel functions:
+
+### 1. Triangular Kernel
+```r
+k_tri <- function(u) pmax(1 - abs(u), 0)
+```
+Creates a triangular weight distribution that decreases linearly from the center. Simple and computationally efficient.
+
+### 2. Epanechnikov Kernel
+```r
+k_epa <- function(u) 0.75 * pmax(1 - u^2, 0)
+```
+Mathematically proven to be optimal in minimizing mean squared error among bounded kernels. A popular choice in practice.
+
+### 3. Uniform (Rectangular) Kernel
+```r
+k_uni <- function(u) 0.5 * (abs(u) < 1)
+```
+Assigns equal weight to all points within the bandwidth and zero weight outside. The simplest kernel but can produce discontinuous estimates.
+
+### 4. Gaussian Kernel
+```r
+k_gaus <- function(u) dnorm(u)
+```
+Uses the standard normal distribution. Provides smooth estimates and has infinite support (all points receive some weight), though distant points contribute negligibly.
+
+### 5. Quartic (Biweight) Kernel
+```r
+k_quar <- function(u) (15/16) * pmax(1 - u^2, 0)^2
+```
+Produces smooth estimates with compact support. More weight concentrated near the center compared to Epanechnikov.
+
+### 6. Triweight Kernel
+```r
+k_triW <- function(u) (35/32) * pmax(1 - u^2, 0)^3
+```
+Even more concentrated around the center than the quartic kernel, providing very smooth estimates.
+
+### 7. Cosine Kernel
+```r
+k_cos <- function(u) (pi/4) * cos(pi*u/2) * (abs(u) < 1)
+```
+Uses a cosine function for smooth, periodic-like weighting within the bandwidth.
+
+## The Bandwidth Parameter (h)
+
+The **bandwidth** `h` controls the size of the neighborhood around each point. It's the crucial tuning parameter in kernel regression:
+
+- **Small h**: Uses only nearby points → captures local details but may overfit
+- **Large h**: Uses many points → produces smooth estimates but may miss local patterns
+
+Choosing the right bandwidth involves balancing bias and variance - a fundamental trade-off in non-parametric estimation.
+
+## Two Kernel Regression Estimators
+
+### 1. Nadaraya-Watson Estimator
+
+The Nadaraya-Watson estimator is perhaps the most intuitive kernel regression method. It computes a **weighted average** of the observed values:
+```r
+nw_estimate <- function(x, y, x0, h, kernel = "triangular") {
+  K <- get_kernel(kernel)
+  w <- K((x0 - x) / h)
+  if (all(w == 0)) return(NA_real_)
+  sum(w * y) / sum(w)
+}
+```
+
+**How it works:**
+
+1. For a target point `x0`, compute the distance to each observed point `x`
+2. Convert distances to weights using the kernel function
+3. Normalize the weights so they sum to 1
+4. Return the weighted average of the y-values
+
+**Mathematical formula:**
+
+$$\hat{m}(x_0) = \frac{\sum_{i=1}^{n} K\left(\frac{x_0 - x_i}{h}\right) y_i}{\sum_{i=1}^{n} K\left(\frac{x_0 - x_i}{h}\right)}$$
+
+The denominator normalizes the weights, ensuring they sum to 1. This makes the Nadaraya-Watson estimator a **local weighted average**.
+
+**Key properties:**
+- Always produces estimates within the range of observed y-values
+- Handles irregularly spaced data naturally
+- Can suffer from boundary bias (poor performance at data extremes)
+- Invariant to the scale of y-values
+
+### 2. Priestley-Chao Estimator
+
+The Priestley-Chao estimator is designed specifically for **equally spaced** data over an interval [a, b]:
+```r
+pc_equally_spaced <- function(x, y, x0, h, a = 0, b = 1, kernel = "triangular") {
+  n <- length(x)
+  K <- get_kernel(kernel)
+  ((b - a) / (n * h)) * sum(K((x - x0) / h) * y)
+}
+```
+
+**How it works:**
+
+1. Assumes data points are uniformly distributed over [a, b]
+2. Computes weights using the kernel function
+3. Scales the weighted sum by the grid spacing: (b - a) / (n * h)
+
+**Mathematical formula:**
+
+$$\hat{m}(x_0) = \frac{b - a}{nh} \sum_{i=1}^{n} K\left(\frac{x_i - x_0}{h}\right) y_i$$
+
+The term `(b - a) / n` represents the spacing between consecutive points on a regular grid.
+
+**Key properties:**
+- More efficient for equally spaced data
+- Better boundary behavior than Nadaraya-Watson
+- Requires assumption of equal spacing
+- Does not normalize weights (can produce estimates outside observed range)
+
+## Practical Example
+
+The code demonstrates both estimators on sample data:
+```r
+x  <- c(0, 1/3, 2/3, 1.00)
+y  <- c(-7.9, 1.7, -7.2, 2.7)
+y1 <- c(5.1, 5.4, 7.8, 1.5)
+
+h  <- 0.4
+x0 <- 0.5
+```
+
+**Estimating at x₀ = 0.5:**
+
+1. **Priestley-Chao with Epanechnikov kernel:**
+```r
+   pc_equally_spaced(x, y, x0, h, kernel = "epanechnikov")
+```
+   Uses equally spaced assumption over [0, 1] with smooth Epanechnikov weights.
+
+2. **Nadaraya-Watson with Triangular kernel:**
+```r
+   nw_estimate(x, y1, x0, h, kernel = "triangular")
+```
+   Computes weighted average using triangular weights centered at 0.5.
+
+## Comparing the Two Estimators
+
+| Feature | Nadaraya-Watson | Priestley-Chao |
+|---------|----------------|----------------|
+| **Data requirement** | Any spacing | Equally spaced |
+| **Weight normalization** | Yes | No |
+| **Boundary behavior** | Can be poor | Better |
+| **Computational cost** | Slightly higher | Slightly lower |
+| **Estimate range** | Within data range | Can exceed range |
+| **Best for** | General use, irregular data | Regular grids, design points |
+
+## Design Patterns in the Code
+
+### 1. Kernel Function Factory
+
+The `get_kernel()` function implements a **factory pattern** that returns the appropriate kernel function:
+```r
+get_kernel <- function(name) {
+  switch(name,
+         triangular   = k_tri,
+         epanechnikov = k_epa,
+         # ... other kernels
+         stop("Unknown kernel"))
+}
+```
+
+This design makes it easy to:
+- Add new kernels without modifying estimator code
+- Switch kernels with a simple string parameter
+- Maintain consistent interfaces across all kernels
+
+### 2. Error Handling
+
+The Nadaraya-Watson estimator includes defensive programming:
+```r
+if (all(w == 0)) return(NA_real_)
+```
+
+This handles edge cases where no points fall within the bandwidth, preventing division by zero.
+
+### 3. Vectorized Operations
+
+Both estimators use R's vectorized operations (`sum()`, element-wise division) for efficiency rather than explicit loops.
+
+## Choosing Between Estimators
+
+**Use Nadaraya-Watson when:**
+- Data is irregularly spaced
+- You need estimates bounded by observed values
+- Simplicity and interpretability are priorities
+
+**Use Priestley-Chao when:**
+- Data is on a regular grid (e.g., time series with fixed intervals)
+- You're working with designed experiments
+- Computational efficiency on large regular grids matters
+
+**For bandwidth selection:**
+- Cross-validation is the gold standard
+- Rule-of-thumb: h ≈ 1.06σn^(-1/5) for Gaussian kernels (Silverman's rule)
+- Visual inspection of smoothness vs. wiggliness
+
+## Extensions and Advanced Topics
+
+The implementation provides a foundation for exploring:
+
+1. **Multivariate kernel regression**: Extend to multiple predictor variables
+2. **Local polynomial regression**: Fit polynomials instead of constants locally
+3. **Adaptive bandwidths**: Vary h based on local data density
+4. **Bandwidth selection**: Cross-validation, plug-in methods, bootstrap
+5. **Confidence bands**: Quantify uncertainty in estimates
+
+## Conclusion
+
+Kernel regression provides a flexible, assumption-free approach to estimating relationships in data. The Nadaraya-Watson and Priestley-Chao estimators represent two fundamental approaches, each with distinct advantages.
+
+The modular R implementation showcases good programming practices: separating kernel functions, using factory patterns for flexibility, and providing clear interfaces. This design makes it easy to experiment with different kernels and understand how each component contributes to the final estimate.
+
+Whether you're exploring data without assumptions about functional form or need robust estimates in the presence of complex relationships, kernel regression offers a powerful tool backed by solid theoretical foundations and practical flexibility.
