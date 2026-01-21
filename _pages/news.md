@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* **January 21, 2026:** visit with and presentation to teh General Consul of Belgium (with the AI4OPT Team)
+* **January 21, 2026:** visit with and presentation to the General Consul of Belgium (with the AI4OPT Team)
 * **December 17-20, 2025:** attended [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
 * **November 21, 2025:** presentation for CHARGENorth at North Gwinnet High School.
 * **November 4, 2025:** attended advisory committee meeting for North Gwinnett High School.
