@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* **February 2, 2026:** visit with Warren County Public Schools team from Kuntucky.
 * **January 21, 2026:** visit with and presentation to the General Consul of Belgium (with the AI4OPT Team)
 * **December 17-20, 2025:** attended [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
 * **November 21, 2025:** presentation for CHARGENorth at North Gwinnet High School.
