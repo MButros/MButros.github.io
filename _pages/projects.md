@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AI4OPT Projects"
+title: "My Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -21,3 +21,8 @@ redirect_from:
 ## AI4OPT Grants
   * [Expand AI with Clark Atlanta University](https://www.ai4opt.org/aihubcau)
   * [Expand AI with University of Texas, Rio Grande Valley](https://www.ai4opt.org/utrgv-arise-project)
+
+## These are the projects I am involved with outside AI4OPT:
+
+  * Reviewer:  AAPT Guidelines for Two-Year Physics Programs.
+    
