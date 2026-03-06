@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* **March 5, 2026:** SLC seminar: Ahead of the Curve: Building the Electrified Supply Chain 
-* **March 4, 2026:** ML at GT seminar: Simplifying AI Models with Optimization and Statistics.
+* **March 6, 2026:** attended TLC: Navigating Teaching and Research in the Era of AI
+* **March 5, 2026:** attended SLC seminar: Ahead of the Curve: Building the Electrified Supply Chain 
+* **March 4, 2026:** attended ML at GT seminar: Simplifying AI Models with Optimization and Statistics.
 * **February 2, 2026:** visit with Warren County Public Schools team from Kuntucky.
 * **January 21, 2026:** visit with and presentation to the General Consul of Belgium (with the AI4OPT Team)
 * **December 17-20, 2025:** attended [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
