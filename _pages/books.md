@@ -19,7 +19,7 @@ redirect_from:
 * How to Teach Quantum Physics to Your Dog by Chad Orzel
 * Ungrading: Why Rating Students Undermines Learning (and What to Do Instead) by Susan Bloom
 * Specification Grading: Restoring Rigor, Motivating Students, and Saving Faculty Time by Linda B. Nelson <mark>HIGHLY RECOMMENDED</mark>
-* Galileo’s Daughter: A historical Memoir of Science, Faith, and Love by Dava Sobel
+* Galileo’s Daughter: A Historical Memoir of Science, Faith, and Love by Dava Sobel
 * The Power of Habit: Why we Do What We Do in Life and in Business by Charles Duhigg
 * Outliers by Malcolm Gladwell
 * Blink by Malcolm Gladwell
