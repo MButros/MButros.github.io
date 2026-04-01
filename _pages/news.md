@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* **March 31, 2026:** AI4OPT hosted 42 students from Denmark High School
 * **March 19, 2026:** NSF invests in [K-12 Teacher Professional Development](https://www.nsf.gov/news/nsf-invests-11m-expand-ai-professional-development-k-12)
 * **March 6, 2026:** attended TLC: Navigating Teaching and Research in the Era of AI
 * **March 5, 2026:** attended SLC seminar: Ahead of the Curve: Building the Electrified Supply Chain 
