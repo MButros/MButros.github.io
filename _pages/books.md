@@ -13,6 +13,7 @@ redirect_from:
 
 ### Here is a list of books I enjoyed reading:
 ### Non – Fiction
+* Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career by Scott H. Young
 * The Physical World: An Inspirational Tour of Fundamental Physics by Nicholas Manton and Nicholas Mee
 * Great Physicists: The Life and Times of Leading Physicists from Galileo to Hawking by William H. Cropper
 * Grit: The Power of Passion and Perseverance by Angela Duckworth <mark>HIGHLY RECOMMENDED</mark>
