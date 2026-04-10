@@ -15,7 +15,7 @@ In 1991, I received my A.S. degree from [Victor Valley College](http://www.vvc.e
 
 I studied physics at [Cal. State University, San Bernardino](https://www.csusb.edu/). While studying physics, I got a deeper understanding of mathematical concepts frequently used in studying physical phenomenon and solving physical problems. Through studying physics, I strengthened my love for mathematics and its beauty as well as gained a special interest in physics and its importance in our daily life. While at CSUSB, I had the pleasure of taking Dr. Renteln, Dr. Usher, Dr. Kolehmainen, and Dr. Dixon. I learned from each one of them about physics (of course), but more importantly, about being a professor.
 
-In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificial Intelligence Institute for Advances in Optimization (AI4OPT) at the Georgia Institute of Technology (GA Tech). The program is for three years. Training received was in software languages R and Python and topics included: Statistics with Python, Data Engineering and Mining, Machine Learning, and Generative Deep Learning.
+In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificial Intelligence Institute for Advances in Optimization (AI4OPT) at the Georgia Institute of Technology (GA Tech). The program was for three years. Training received was in software languages R and Python and topics included: Statistics with Python, Data Engineering and Mining, Machine Learning, and Generative Deep Learning.
 
 ## Academic Interests
 ### Physics and Mathematics:
