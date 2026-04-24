@@ -12,11 +12,44 @@ I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle Eas
 
 ## Education
 
-| School|Seal|Years|Degree|
-| :---|:---:|:---:|:---: |
-| Northern Arizona Univeristy|<img src='/images/nau.png' width="100" height="100">| 1997-2000 | M.S. |
-| University of California, Irvine|<img src='/images/uci.png' width="100" height="100">| 1991-1994 | B.S. |
-| Victor Valley College|<img src='/images/vvc.jpeg' width="100" height="100">| 1989-1991 | A.S. |
+<div align="center">
+<table style="margin:auto; border-collapse:collapse;">
+  <colgroup>
+    <col style="width:220px;">
+    <col style="width:90px;">
+    <col style="width:90px;">
+    <col style="width:70px;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="padding:6px 10px; text-align:left;">School</th>
+      <th style="padding:6px 8px; text-align:center;">Seal</th>
+      <th style="padding:6px 8px; text-align:center;">Years</th>
+      <th style="padding:6px 8px; text-align:center;">Degree</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:6px 10px;">Northern Arizona University</td>
+      <td style="padding:6px 8px; text-align:center;"><img src='/images/nau.png' width="70" height="70"></td>
+      <td style="padding:6px 8px; text-align:center;">1997–2000</td>
+      <td style="padding:6px 8px; text-align:center;">M.S.</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 10px;">University of California, Irvine</td>
+      <td style="padding:6px 8px; text-align:center;"><img src='/images/uci.png' width="70" height="70"></td>
+      <td style="padding:6px 8px; text-align:center;">1991–1994</td>
+      <td style="padding:6px 8px; text-align:center;">B.S.</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 10px;">Victor Valley College</td>
+      <td style="padding:6px 8px; text-align:center;"><img src='/images/vvc.jpeg' width="70" height="70"></td>
+      <td style="padding:6px 8px; text-align:center;">1989–1991</td>
+      <td style="padding:6px 8px; text-align:center;">A.S.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 In 1991, I received my A.S. degree from [Victor Valley College](http://www.vvc.edu) and transferred to the [University of Cal, Irvine](https://uci.edu/) to study electrical engineering, but shortly after that I discovered that I would rather study mathematics.  In 1994, I graduated with a B.S. in mathematics, with an emphasis in applied mathematics, from UCI.  I began my graduate work in mathematics at [Northern Arizona University](https://nau.edu/) in 1997.  I received my M.S. in mathematics from NAU in August, 2000.  My thesis project dealt with finding numerical solutions to nonlinear elliptic partial differential equations.  My thesis advisor was Dr. John Neuberger along with committee members Dr. James Swift and Dr. Lawrence Perko. 
