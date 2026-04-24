@@ -12,8 +12,8 @@ I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle Eas
 
 ## Education
 
-| School|          | Years | Degree |
-| :-------| :----:|:------:| :----: |
+| School|  Seal | Years | Degree |
+| :-------|:----:|:------:|:----: |
 | Northern Arizona Univeristy     |  <img src='/images/nau.png' width="100" height="100"> | 1997-2000  | M.S. |
 | University of California, Irvine |  <img src='/images/uci.png' width="100" height="100">          | 1991-1994  | B.S. |
 | Victor Valley College           |  <img src='/images/vvc.jpeg' width="100" height="100">                | 1989-1991  | A.S. |
