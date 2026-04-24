@@ -23,7 +23,7 @@ I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle Eas
   <thead>
     <tr>
       <th style="padding:6px 10px; text-align:left;">School</th>
-      <th style="padding:6px 8px; text-align:center;">Seal</th>
+      <th style="padding:6px 8px; text-align:center;"></th>
       <th style="padding:6px 8px; text-align:center;">Years</th>
       <th style="padding:6px 8px; text-align:center;">Degree</th>
     </tr>
