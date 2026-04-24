@@ -14,9 +14,9 @@ I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle Eas
 
 | School|  Seal | Years | Degree |
 | :-------|:----:|:------:|:----: |
-| Northern Arizona Univeristy     |  <img src='/images/nau.png' width="100" height="100"> | 1997-2000  | M.S. |
-| University of California, Irvine |  <img src='/images/uci.png' width="100" height="100">          | 1991-1994  | B.S. |
-| Victor Valley College           |  <img src='/images/vvc.jpeg' width="100" height="100">                | 1989-1991  | A.S. |
+| Northern Arizona Univeristy|<img src='/images/nau.png' width="100" height="100">| 1997-2000 | M.S. |
+| University of California, Irvine|<img src='/images/uci.png' width="100" height="100">| 1991-1994 | B.S. |
+| Victor Valley College|<img src='/images/vvc.jpeg' width="100" height="100">| 1989-1991 | A.S. |
 
 
 In 1991, I received my A.S. degree from [Victor Valley College](http://www.vvc.edu) and transferred to the [University of Cal, Irvine](https://uci.edu/) to study electrical engineering, but shortly after that I discovered that I would rather study mathematics.  In 1994, I graduated with a B.S. in mathematics, with an emphasis in applied mathematics, from UCI.  I began my graduate work in mathematics at [Northern Arizona University](https://nau.edu/) in 1997.  I received my M.S. in mathematics from NAU in August, 2000.  My thesis project dealt with finding numerical solutions to nonlinear elliptic partial differential equations.  My thesis advisor was Dr. John Neuberger along with committee members Dr. James Swift and Dr. Lawrence Perko. 
