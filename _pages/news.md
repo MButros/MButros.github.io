@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* **May 7, 2026:** SCL Lunch and Learn: "Ahead of the Curve: Designing Prices and Markets When Data is Imperfect"
 * **April 16, 2026:** AI4OPT hosted 29 students from Gwinnett School of Mathematics, Science, and Technology
 * **April 9, 2026:** attended webinar: AI Tools for Data Science and Stats - Claude Code, Cowork, and Chat
 * **April 7, 2026:** attended 3 minute thesis final presentations - Great job by Rosemary B. and Richard A.
