@@ -15,7 +15,7 @@ redirect_from:
   * High School Internship Program - Currently not offered
     
 ## Higher Education Initiatives
-  * [Partnership for Innovation](https://pingeorgia.org/)  
+  * [Partnership for Innovation - Hosting Interns](https://pingeorgia.org/)  
   * [Faculty Training Program](https://www.ai4opt.org/education/faculty-training)
   * [Executive Committee Member - 2025 iSTEME Conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/)
 
