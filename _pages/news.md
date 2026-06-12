@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* **June 8-12, 2026:** Seth Bonder Camp - Introduction to Python 
 * **May 28, 2026:** attended webinar: "Reliable AI for Optimization" 
 * **May 7, 2026:** SCL Lunch and Learn: "Ahead of the Curve: Designing Prices and Markets When Data is Imperfect"
 * **April 16, 2026:** AI4OPT hosted 29 students from Gwinnett School of Mathematics, Science, and Technology
