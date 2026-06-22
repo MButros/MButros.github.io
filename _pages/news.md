@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* **June 22-26, 2026:** Seth Bonder Camp - Deep Learning 
+* **June 17-18,,2026:** AI4OPT Faculty Training Program Conference
 * **June 8-12, 2026:** Seth Bonder Camp - Introduction to Python 
 * **May 28, 2026:** attended webinar: "Reliable AI for Optimization" 
 * **May 7, 2026:** SCL Lunch and Learn: "Ahead of the Curve: Designing Prices and Markets When Data is Imperfect"
