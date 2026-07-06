@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* **July, 6-10, 2026:** Seth Bonder Camp - Playing with Fire: Video Game Design Meets Resilient Power Grids
 * **June 22-26, 2026:** Seth Bonder Camp - Deep Learning 
 * **June 17-18, 2026:** AI4OPT Faculty Training Program Conference
 * **June 8-12, 2026:** Seth Bonder Camp - Introduction to Python 
