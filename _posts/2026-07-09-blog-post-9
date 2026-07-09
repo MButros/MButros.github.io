@@ -1,0 +1,196 @@
+---
+title: 'Introduction to Density Estimation in R'
+date: 2026-05-14
+permalink: /posts/2026/07/blog-post-9/
+tags:
+  - Education
+  - R
+
+---
+
+# A Gentle Introduction to Density Estimation in R
+
+*Estimating the shape of your data, one observation at a time.*
+
+---
+
+When we collect data, one of the first things we want to understand is its *distribution*—how values are spread out, where they cluster, and what shape the underlying process takes. **Density estimation** gives us a way to approximate the probability density function (PDF) of a random variable from a finite sample. In this post, we'll walk through the core ideas behind density estimation and see how to implement them in R.
+
+## Why Density Estimation?
+
+Suppose you have a sample of $n$ observations $x_1, x_2, \dots, x_n$ drawn from some unknown distribution $f$. You'd like to recover $f$—or at least get a useful approximation $\hat{f}$. Why bother?
+
+- **Exploratory analysis.** Visualizing the shape of your data reveals clusters, skewness, and multimodality that summary statistics miss.
+- **Modeling assumptions.** Before fitting a parametric model you should check whether the data actually looks normal, log-normal, or something else entirely.
+- **Anomaly detection.** Points that fall in low-density regions are natural candidates for outliers.
+- **Simulation and resampling.** A good density estimate lets you generate realistic synthetic data.
+
+There are two broad families of approaches: **parametric** and **nonparametric**.
+
+## Parametric Density Estimation
+
+In the parametric approach we assume $f$ belongs to a known family (e.g., Gaussian) and estimate its parameters from the data. This is fast and interpretable when the assumption is correct—and misleading when it isn't.
+
+```r
+# Generate sample data: a mixture of two normals
+set.seed(42)
+x <- c(rnorm(300, mean = -2, sd = 1), rnorm(200, mean = 3, sd = 1.5))
+
+# Fit a single Gaussian (parametric)
+mu_hat <- mean(x)
+sigma_hat <- sd(x)
+
+# Evaluate the fitted density on a grid
+grid <- seq(-8, 10, length.out = 500)
+f_param <- dnorm(grid, mean = mu_hat, sd = sigma_hat)
+```
+
+A single Gaussian fit will place its peak somewhere between the two true modes and completely miss the bimodal structure. Let's keep this result around for comparison.
+
+## The Histogram: A First Nonparametric Estimator
+
+The histogram is the simplest nonparametric density estimator. Partition the real line into bins of width $h$, count how many observations fall in each bin, and normalize so the total area equals one.
+
+```r
+# Histogram as a density estimate
+hist(x, breaks = 30, probability = TRUE, col = "lightblue", border = "white",
+     main = "Histogram vs. Parametric Fit",
+     xlab = "x", ylab = "Density")
+
+# Overlay the parametric Gaussian
+lines(grid, f_param, col = "tomato", lwd = 2, lty = 2)
+legend("topright", legend = c("Histogram", "Gaussian fit"),
+       fill = c("lightblue", NA), border = c("black", NA),
+       lty = c(NA, 2), lwd = c(NA, 2), col = c(NA, "tomato"))
+```
+
+The histogram depends heavily on two choices: **bin width** and **bin origin**. A narrow bin width produces a spiky, noisy estimate; a wide one over-smooths. And shifting the bin edges by even a small amount can change the picture. This motivates a smoother alternative.
+
+## Kernel Density Estimation (KDE)
+
+Kernel density estimation replaces the rigid bins of a histogram with smooth bumps centered on each observation. The estimator is defined as:
+
+$$
+\hat{f}_h(x) = \frac{1}{nh} \sum_{i=1}^{n} K\!\left(\frac{x - x_i}{h}\right)
+$$
+
+where $K$ is a **kernel function** (a symmetric density, often Gaussian) and $h > 0$ is the **bandwidth** controlling the degree of smoothing. The bandwidth plays a role analogous to the bin width in a histogram—it is the single most important tuning parameter.
+
+```r
+# Kernel density estimate using R's built-in density()
+kde_default <- density(x)
+
+# Compare different bandwidths
+kde_narrow  <- density(x, bw = 0.2)
+kde_wide    <- density(x, bw = 2.0)
+
+# Plot the results
+plot(kde_default, lwd = 2, col = "steelblue",
+     main = "KDE: The Effect of Bandwidth",
+     xlab = "x", ylab = "Density", ylim = c(0, 0.25))
+lines(kde_narrow, lwd = 2, col = "forestgreen", lty = 3)
+lines(kde_wide, lwd = 2, col = "coral", lty = 2)
+
+# Add rug plot to show raw observations
+rug(x, col = rgb(0, 0, 0, 0.15))
+
+legend("topright",
+       legend = c(
+         paste0("Default (bw = ", round(kde_default$bw, 2), ")"),
+         "Narrow (bw = 0.2)",
+         "Wide (bw = 2.0)"),
+       col = c("steelblue", "forestgreen", "coral"),
+       lty = c(1, 3, 2), lwd = 2)
+```
+
+Notice the trade-off: the narrow bandwidth captures fine detail but introduces spurious wiggles, while the wide bandwidth blurs the two modes into one. The default bandwidth in `density()` uses **Silverman's rule of thumb**, which works well for unimodal data but can over-smooth multimodal distributions.
+
+## Choosing the Bandwidth
+
+Since bandwidth selection is so critical, R provides several automatic methods.
+
+```r
+# Silverman's rule of thumb (default in density())
+bw_nrd0 <- bw.nrd0(x)
+
+# Scott's rule
+bw_nrd <- bw.nrd(x)
+
+# Sheather-Jones plug-in (often the best general-purpose choice)
+bw_sj <- bw.SJ(x)
+
+# Unbiased cross-validation
+bw_ucv <- bw.ucv(x)
+
+cat("Silverman: ", round(bw_nrd0, 3), "\n",
+    "Scott:     ", round(bw_nrd, 3), "\n",
+    "Sheather-Jones: ", round(bw_sj, 3), "\n",
+    "UCV:       ", round(bw_ucv, 3), "\n", sep = "")
+
+# Compare Silverman and Sheather-Jones
+plot(density(x, bw = bw_nrd0), lwd = 2, col = "steelblue",
+     main = "Bandwidth Selection Methods", xlab = "x")
+lines(density(x, bw = bw_sj), lwd = 2, col = "darkorange")
+rug(x, col = rgb(0, 0, 0, 0.15))
+legend("topright",
+       legend = c(paste0("Silverman (", round(bw_nrd0, 2), ")"),
+                  paste0("Sheather-Jones (", round(bw_sj, 2), ")")),
+       col = c("steelblue", "darkorange"), lwd = 2)
+```
+
+The **Sheather-Jones** method (`bw.SJ`) is generally recommended as a solid default. It tends to adapt better to multimodal data than Silverman's rule, though no automatic method is universally optimal.
+
+## Putting It All Together
+
+Let's combine everything into a single comparison plot.
+
+```r
+par(mar = c(4, 4, 3, 1))
+
+# Histogram base layer
+hist(x, breaks = 30, probability = TRUE,
+     col = "grey90", border = "white",
+     main = "Density Estimation: Three Approaches",
+     xlab = "x", ylab = "Density",
+     ylim = c(0, 0.25))
+
+# True density (the mixture we sampled from)
+f_true <- 0.6 * dnorm(grid, -2, 1) + 0.4 * dnorm(grid, 3, 1.5)
+lines(grid, f_true, lwd = 2, col = "black", lty = 1)
+
+# Parametric (single Gaussian)
+lines(grid, f_param, lwd = 2, col = "tomato", lty = 2)
+
+# KDE with Sheather-Jones bandwidth
+lines(density(x, bw = bw_sj), lwd = 2, col = "steelblue")
+
+rug(x, col = rgb(0, 0, 0, 0.1))
+
+legend("topright",
+       legend = c("True density", "Gaussian fit", "KDE (Sheather-Jones)", "Histogram"),
+       col = c("black", "tomato", "steelblue", "grey70"),
+       lty = c(1, 2, 1, NA), lwd = c(2, 2, 2, NA),
+       fill = c(NA, NA, NA, "grey90"), border = c(NA, NA, NA, "white"))
+```
+
+The KDE hugs the true density far more closely than the parametric fit, capturing both modes and their relative heights. The histogram tells a similar story but with less precision and more visual noise.
+
+## A Few Practical Tips
+
+**Check the tails.** By default `density()` extends the estimate beyond the data range. If your variable has a natural boundary (e.g., non-negative values), consider the `from` and `to` arguments or use a boundary-corrected estimator.
+
+**Higher dimensions.** KDE generalizes to multivariate data, but the curse of dimensionality bites hard—bandwidth selection becomes much more difficult and sample size requirements grow exponentially. In practice, KDE works best in one or two dimensions. For higher-dimensional problems, consider model-based approaches like Gaussian Mixture Models.
+
+**Computational cost.** R's `density()` uses a fast binned approximation, so it scales well. For very large datasets, this is rarely a bottleneck.
+
+**Beyond Gaussian kernels.** The choice of kernel shape (Gaussian, Epanechnikov, triangular, etc.) has surprisingly little impact on the quality of the estimate. The bandwidth matters far more. That said, the Epanechnikov kernel is theoretically optimal in the mean integrated squared error sense.
+
+## Where to Go Next
+
+This post covered the fundamentals, but density estimation is a deep and active area of statistics. Some natural next steps include Gaussian Mixture Models (parametric, but flexible enough to capture multimodality), local likelihood and adaptive bandwidth methods (let the bandwidth vary across the domain), and logspline or penalized likelihood estimators (balance smoothness and fit via a penalty term). R packages like `ks`, `np`, `logspline`, and `mclust` offer powerful tools for these more advanced methods.
+
+The core lesson is simple: always look at your data before modeling it, and density estimation gives you one of the best lenses for doing so.
+
+---
+
+*Thanks for reading. If you have questions or suggestions, feel free to reach out.*
