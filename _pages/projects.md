@@ -27,4 +27,5 @@ redirect_from:
 ## These are the projects I am involved with outside AI4OPT:
 
   * [2026] Reviewer:  AAPT Guidelines for Two-Year Physics Programs.
+  * [2014-] Mentor: Anteater Mentoring in Physical Sciences Program.
     
