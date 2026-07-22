@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Director of Education - AI4OPT, Physics and Mathematics Professor, and Lifelong Learner"
+title: "Director of Education - AI4OPT, Physics and Mathematics Professor (2000-2024), and Lifelong Learner"
 author_profile: true
 redirect_from: 
   - /about/
