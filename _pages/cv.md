@@ -28,7 +28,7 @@ Work experience
     * Taught undergraduate physics and mathematics classes
     * Developed new programs at VVC (A.S. in Physics, A.S. in Pre-Engineering)
     * Conducted student research projects
-    * Served as department chair
+    * Served as department chair for both mathematics and physics 
     * Served on the curriculum committee
     * Served as distance education faculty facilitator
 
@@ -38,7 +38,7 @@ Work experience
 
 * Summers 2014-2018: Visiting Professor 
   * NASA - Armstrong Flight Research Center 
-  * Duties included: Work with a NASA engineer of a student research project
+  * Duties included: Work with a NASA engineer and a student on a research project
   
   
 Skills
@@ -47,7 +47,7 @@ Skills
 * R/RStudio for Data Science
 * Maple, Mathematica, and MATLAB Computer Algebra Systems
 * CANVAS, Blackboard, and Moodle Course Management Systems
-* LaTeX Typesetting Software
+* $$\LaTeX$$ Typesetting Software
 
 Publications
 ======
