@@ -15,7 +15,7 @@ I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle Eas
 <div align="center">
 <table style="margin:auto; border-collapse:collapse;">
   <colgroup>
-    <col style="width:220px;">
+    <col style="width:150px;">
     <col style="width:90px;">
     <col style="width:90px;">
     <col style="width:70px;">
