@@ -24,7 +24,7 @@ I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle Eas
     <tr>
       <th style="padding:6px 10px; text-align:left;">School</th>
       <th style="padding:6px 8px; text-align:center;"></th>
-      <th style="padding:6px 8px; text-align:center;">Years</th>
+      <th style="padding:6px 8px; text-align:center;">Year</th>
       <th style="padding:6px 8px; text-align:center;">Degree</th>
     </tr>
   </thead>
@@ -32,19 +32,19 @@ I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle Eas
     <tr>
       <td style="padding:6px 10px;">Northern Arizona University</td>
       <td style="padding:6px 8px; text-align:center;"><img src='/images/nau.png' width="70" height="70"></td>
-      <td style="padding:6px 8px; text-align:center;">1997–2000</td>
+      <td style="padding:6px 8px; text-align:center;">2000</td>
       <td style="padding:6px 8px; text-align:center;">M.S.</td>
     </tr>
     <tr>
       <td style="padding:6px 10px;">University of California, Irvine</td>
       <td style="padding:6px 8px; text-align:center;"><img src='/images/uci.png' width="70" height="70"></td>
-      <td style="padding:6px 8px; text-align:center;">1991–1994</td>
+      <td style="padding:6px 8px; text-align:center;">1994</td>
       <td style="padding:6px 8px; text-align:center;">B.S.</td>
     </tr>
     <tr>
       <td style="padding:6px 10px;">Victor Valley College</td>
       <td style="padding:6px 8px; text-align:center;"><img src='/images/vvc.jpeg' width="70" height="70"></td>
-      <td style="padding:6px 8px; text-align:center;">1989–1991</td>
+      <td style="padding:6px 8px; text-align:center;">1991</td>
       <td style="padding:6px 8px; text-align:center;">A.S.</td>
     </tr>
   </tbody>
