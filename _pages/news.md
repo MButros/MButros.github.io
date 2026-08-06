@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 2026
+
 * **July, 20-24, 2026:** Seth Bonder Camp - Agentic and Generative AI
 * **July, 6-10, 2026:** Seth Bonder Camp - Playing with Fire: Video Game Design Meets Resilient Power Grids
 * **June 22-26, 2026:** Seth Bonder Camp - Deep Learning 
@@ -29,6 +30,7 @@ redirect_from:
 * **January 21, 2026:** visit with and presentation to the General Consul of Belgium (with the AI4OPT Team)
 
 ## 2025
+
 * **December 17-20, 2025:** attended [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
 * **November 21, 2025:** presentation for CHARGENorth at North Gwinnet High School.
 * **November 4, 2025:** attended advisory committee meeting for North Gwinnett High School.
