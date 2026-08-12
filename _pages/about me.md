@@ -67,7 +67,7 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 
 ### Data Science
 * Data Mining and Wrangling
-* Data Analysis
+* Data Analytics
 * Machine Learning
 * Artificial Intelligence 
 * Statistical Learning
