@@ -11,6 +11,7 @@ redirect_from:
 
 ## 2026
 
+* **August 14, 2026:** AI4OPT WAS RENEWED!!!
 * **August 13, 2026:** AI4OPT Seminar: Two Scalable Distributed Strategies for Nonlinear Optimization in Power Systems
 * **July, 20-24, 2026:** Seth Bonder Camp - Agentic and Generative AI
 * **July, 6-10, 2026:** Seth Bonder Camp - Playing with Fire: Video Game Design Meets Resilient Power Grids
