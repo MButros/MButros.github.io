@@ -13,15 +13,15 @@ redirect_from:
 
 ### Mathematics Courses:
 
-- Introduction to Statistics 
+- [Introduction to Statistics](../files/M231.pdf) 
 - Finite Mathematics
 - College Algebra
 - Trigonometry
 - Pre-Calculus
-- Calculus I 
-- Calculus II
+- [Calculus I](../files/M226.pdf)
+- [Calculus II](../files/M227.pdf)
 - Calculus III 
-- Differential Equations
+- [Differential Equations](../files/M270.pdf)
 - [Linear Algebra](../files/M231.pdf)
 
 ### Physics and Engineering Courses:
