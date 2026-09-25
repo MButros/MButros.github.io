@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: |
-  Director of Education - AI4OPT (2024 - )
-  Physics and Mathematics Professor (2000 - 2024)
-  NAU, UCI, and VVC Alum
-  Lifetime Learner
+title: "Director of Education - AI4OPT (2024 - )<br>Physics and Mathematics Professor (2000 - 2024)<br>NAU, UCI, and VVC Alum<br>Lifetime Learner"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 ## Welcome
 
 My name is Michael Butros and I am the Director of Education at the Artificial Intelligence Institute for Advances in Optimization ([AI4OPT](https://www.ai4opt.org)) at the Georgia Institute of Technology ([GA Tech](https://www.gatech.edu))
