@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Director of Education - AI4OPT (2024 - )<br>Physics and Mathematics Professor (2000 - 2024)<br>NAU (2000), UCI (1994), and VVC (1991) Alum<br>Lifetime Learner"
+title: "Director of Education - AI4OPT (2024 - )<br>Physics and Mathematics Professor (2000 - 2024)<br>NAU (2000), UCI (1994), and VVC (1991) Alum<br>Lifelong Learner"
 author_profile: true
 redirect_from: 
   - /about/
