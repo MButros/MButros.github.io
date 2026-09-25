@@ -11,7 +11,7 @@ redirect_from:
 
 ## 2026
 
-* **September 26, 2026:** PICUP Workshop [DICE Atlanta 2026](https://www.compadre.org/PICUP/events/AtlantaDICE2026/)
+* **September 26, 2026:** PICUP Workshop: [AtlantaDICE 2026](https://www.compadre.org/PICUP/events/AtlantaDICE2026/)
 * **September 18, 2026:** attended the George/Scheller Tower Dedication event
 * **September 4, 2026:** attended ISyE Seminar: Bayesian Pooling of Self- and Peer-Reports to Improve Measurement of Sensitive Behaviors
 * **August 14, 2026:** AI4OPT WAS RENEWED!!!
