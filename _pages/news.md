@@ -11,6 +11,7 @@ redirect_from:
 
 ## 2026
 
+* **October 2, 2026:** attended ISYE seminar: [Two-sided Assortment Optimization](https://www.isye.gatech.edu/events/calendar/day/2026/10/02/13397)
 * **September 26, 2026:** PICUP Workshop: [AtlantaDICE 2026](https://www.compadre.org/PICUP/events/AtlantaDICE2026/)
 * **September 18, 2026:** attended the George/Scheller Tower Dedication event
 * **September 4, 2026:** attended ISyE Seminar: Bayesian Pooling of Self- and Peer-Reports to Improve Measurement of Sensitive Behaviors
