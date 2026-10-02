@@ -15,7 +15,7 @@ redirect_from:
 * **September 26, 2026:** PICUP Workshop: [AtlantaDICE 2026](https://www.compadre.org/PICUP/events/AtlantaDICE2026/)
 * **September 18, 2026:** attended the George/Scheller Tower Dedication event
 * **September 4, 2026:** attended ISyE Seminar: [Bayesian Pooling of Self- and Peer-Reports to Improve Measurement of Sensitive Behaviors](https://www.isye.gatech.edu/events/calendar/day/2026/09/04/13363)
-* **August 14, 2026:** AI4OPT WAS RENEWED!!!
+* **August 14, 2026:** <mark>AI4OPT WAS RENEWED!!!</mark>
 * **August 13, 2026:** AI4OPT Seminar: [Two Scalable Distributed Strategies for Nonlinear Optimization in Power Systems](https://www.ai4opt.org/news-events/ai4opt-seminar-series-xinliang-dai)
 * **July, 20-24, 2026:** Seth Bonder Camp - Agentic and Generative AI
 * **July, 6-10, 2026:** Seth Bonder Camp - Playing with Fire: Video Game Design Meets Resilient Power Grids
