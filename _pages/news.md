@@ -11,7 +11,8 @@ redirect_from:
 
 ## 2026
 
-* **October, 15, 2026:** AI-ALOE: Discover the future of AI for learning at the Fall AI-ALOE Virtual Showcase!
+* **October, 15, 2026:** ASA Philly Chapter Webinar: Utilizing Functional Data Analytic Methods to Study Head Impact Exposure of College Football Athletes
+* **October 15, 2026:** AI-ALOE: Discover the future of AI for learning at the Fall AI-ALOE Virtual Showcase!
 * **October 14, 2026:** INFORMS Webinar: [Structured Problem Solving](https://tinyurl.com/3jvvvymr) 
 * **October 8-9, 2026:** 2026 OMS [Analytics Conference](https://pe.gatech.edu/degrees/analytics/conference)
 * **October 2, 2026:** attended ISyE seminar: [Two-sided Assortment Optimization](https://www.isye.gatech.edu/events/calendar/day/2026/10/02/13397)
