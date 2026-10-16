@@ -11,14 +11,16 @@ redirect_from:
 
 ## 2026
 
+* **October 16, 2026:** ISyE Seminar: [Infinite-State Partially Observable Markov Decision Processes with Applications to Inventory Control
+](https://www.isye.gatech.edu/events/calendar/day/2026/10/16/13387)
 * **October, 15, 2026:** ASA Philly Chapter Webinar: Utilizing Functional Data Analytic Methods to Study Head Impact Exposure of College Football Athletes
 * **October 15, 2026:** AI-ALOE: Discover the future of AI for learning at the Fall AI-ALOE Virtual Showcase!
 * **October 14, 2026:** INFORMS Webinar: [Structured Problem Solving](https://tinyurl.com/3jvvvymr) 
 * **October 8-9, 2026:** 2026 OMS [Analytics Conference](https://pe.gatech.edu/degrees/analytics/conference)
-* **October 2, 2026:** attended ISyE seminar: [Two-sided Assortment Optimization](https://www.isye.gatech.edu/events/calendar/day/2026/10/02/13397)
+* **October 2, 2026:**  ISyE seminar: [Two-sided Assortment Optimization](https://www.isye.gatech.edu/events/calendar/day/2026/10/02/13397)
 * **September 26, 2026:** PICUP Workshop: [AtlantaDICE 2026](https://www.compadre.org/PICUP/events/AtlantaDICE2026/)
-* **September 18, 2026:** attended the George/Scheller Tower Dedication event
-* **September 4, 2026:** attended ISyE Seminar: [Bayesian Pooling of Self- and Peer-Reports to Improve Measurement of Sensitive Behaviors](https://www.isye.gatech.edu/events/calendar/day/2026/09/04/13363)
+* **September 18, 2026:** George/Scheller Tower Dedication event
+* **September 4, 2026:** ISyE Seminar: [Bayesian Pooling of Self- and Peer-Reports to Improve Measurement of Sensitive Behaviors](https://www.isye.gatech.edu/events/calendar/day/2026/09/04/13363)
 * **August 14, 2026:** <mark>AI4OPT WAS RENEWED!!!</mark>
 * **August 13, 2026:** AI4OPT Seminar: [Two Scalable Distributed Strategies for Nonlinear Optimization in Power Systems](https://www.ai4opt.org/news-events/ai4opt-seminar-series-xinliang-dai)
 * **July, 20-24, 2026:** Seth Bonder Camp - Agentic and Generative AI
@@ -29,21 +31,21 @@ redirect_from:
 * **May 28, 2026:** attended webinar: "Reliable AI for Optimization" 
 * **May 7, 2026:** SCL Lunch and Learn: "Ahead of the Curve: Designing Prices and Markets When Data is Imperfect"
 * **April 16, 2026:** AI4OPT hosted 29 students from Gwinnett School of Mathematics, Science, and Technology
-* **April 9, 2026:** attended webinar: AI Tools for Data Science and Stats - Claude Code, Cowork, and Chat
-* **April 7, 2026:** attended 3 minute thesis final presentations - Great job by Rosemary B. and Richard A.
+* **April 9, 2026:** Webinar: AI Tools for Data Science and Stats - Claude Code, Cowork, and Chat
+* **April 7, 2026:** 3-minute thesis final presentations - Great job by Rosemary B. and Richard A.
 * **March 31, 2026:** AI4OPT hosted 42 students from Denmark High School
 * **March 19, 2026:** NSF invests in [K-12 Teacher Professional Development](https://www.nsf.gov/news/nsf-invests-11m-expand-ai-professional-development-k-12)
-* **March 6, 2026:** attended TLC: Navigating Teaching and Research in the Era of AI
-* **March 5, 2026:** attended SLC seminar: Ahead of the Curve: Building the Electrified Supply Chain 
-* **March 4, 2026:** attended ML at GT seminar: Simplifying AI Models with Optimization and Statistics.
+* **March 6, 2026:** TLC: Navigating Teaching and Research in the Era of AI
+* **March 5, 2026:** SLC seminar: Ahead of the Curve: Building the Electrified Supply Chain 
+* **March 4, 2026:** ML at GT seminar: Simplifying AI Models with Optimization and Statistics.
 * **February 2, 2026:** visit with Warren County Public Schools team from Kuntucky.
 * **January 21, 2026:** visit with and presentation to the General Consul of Belgium (with the AI4OPT Team)
 
 ## 2025
 
-* **December 17-20, 2025:** attended [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
+* **December 17-20, 2025:** [iSTEME conference](https://htu.edu/academics/colleges/cas/mathematics/isteme2025/) 
 * **November 21, 2025:** presentation for CHARGENorth at North Gwinnet High School.
-* **November 4, 2025:** attended advisory committee meeting for North Gwinnett High School.
+* **November 4, 2025:** advisory committee meeting for North Gwinnett High School.
 * **October 25, 2025:** presentation at [Hackathon5.0](https://www.ai4opt.org/news-events/hackgwinnett-50-brings-together-170-students-day-coding-and-innovation) at Gwinnett School of Mathematics, Science, and Technology.
 * **October 13-15, 2025:** visit to UT, Rio Grande Valley, for the [Expand AI ARISE project.](https://www.ai4opt.org/news-events/2025-nsf-expandai-arise-meeting)
 * **July 21-25, 2025:** [Seth Bonder Camp](https://www.ai4opt.org/sbc-2025) - Level 4 (Generative and Agentic AI) - Offered for the first time.
