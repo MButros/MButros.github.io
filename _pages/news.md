@@ -11,6 +11,7 @@ redirect_from:
 
 ## 2026
 
+* **October 16, 2026:** New Article: [Expand AI Grant: AIHUB@CAU](https://news.research.gatech.edu/2026/10/15/georgia-tech-partnership-expands-ai-education-cau)
 * **October 16, 2026:** ISyE Seminar: [Infinite-State Partially Observable Markov Decision Processes with Applications to Inventory Control
 ](https://www.isye.gatech.edu/events/calendar/day/2026/10/16/13387)
 * **October, 15, 2026:** ASA Philly Chapter Webinar: Utilizing Functional Data Analytic Methods to Study Head Impact Exposure of College Football Athletes
