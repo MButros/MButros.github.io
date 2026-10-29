@@ -11,7 +11,6 @@ redirect_from:
 
 ## 2026
 
-* **October 29, 2026:** Dynamics AI Seminar: [Generating Clinical Role Models via Constraint-Aware Self-Improving Large Language Models](https://calendar.washington.edu/DynamicsAI/Seminar-Gian-Gabriel-Garcia-UW/E207738938)
 * **October 16, 2026:** AI4OPT News Article: [Expand AI Grant: AIHUB@CAU](https://news.research.gatech.edu/2026/10/15/georgia-tech-partnership-expands-ai-education-cau)
 * **October 16, 2026:** ISyE Seminar: [Infinite-State Partially Observable Markov Decision Processes with Applications to Inventory Control
 ](https://www.isye.gatech.edu/events/calendar/day/2026/10/16/13387)
