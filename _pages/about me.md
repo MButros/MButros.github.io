@@ -59,17 +59,18 @@ I studied physics at [Cal. State University, San Bernardino](https://www.csusb.e
 In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificial Intelligence Institute for Advances in Optimization (AI4OPT) at the Georgia Institute of Technology (GA Tech). The program was for three years. Training received was in software languages R and Python and topics included: Statistics with Python, Data Engineering and Mining, Machine Learning, and Generative Deep Learning.
 
 
+
 <h2>Academic Interests</h2>
 
-<table>
+<table style="margin-left:auto; margin-right:auto; width:90%;">
   <tr>
     <th colspan="2" style="text-align:center;">
       Academic Interests
     </th>
   </tr>
   <tr>
-    <th>Physics and Mathematics</th>
-    <th>Data Science</th>
+    <th style="text-align:center;">Physics and Mathematics</th>
+    <th style="text-align:center;">Data Science</th>
   </tr>
   <tr>
     <td>Dynamical Systems</td>
@@ -88,6 +89,7 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
     <td>Statistical Learning</td>
   </tr>
 </table>
+
 
 ## Hobbies
 * Hiking
