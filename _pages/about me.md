@@ -89,19 +89,6 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
   </tr>
 </table>
 
-## Academic Interests
-### Physics and Mathematics:
-* Dynamical Systems
-* Partial Differential Equations: especially elliptical
-* Ordinary Differential Equation
-* Numerical Analysis and Computation
-
-### Data Science
-* Data Analytics
-* Machine Learning
-* Artificial Intelligence 
-* Statistical Learning
-
 ## Hobbies
 * Hiking
   * My greatest accomplishment as a hiker came on 10/17/1999 when I hiked the Grand Canyon from the South rim to the North rim.  A       hike which took 11.5 hours.  It was the most difficult and most rewarding adventure I have experienced to date. 
