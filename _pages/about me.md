@@ -64,8 +64,8 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 <div style="display:flex; justify-content:center; width:100%;">
   <table style="width:90%; table-layout:fixed; margin:0 auto;">
     <tr>
-      <th style="text-align:center; width:50%;">Physics and Mathematics</th>
-      <th style="text-align:center; width:50%;">Data Science</th>
+      <th style="text-align:left; width:50%;">Physics and Mathematics</th>
+      <th style="text-align:left; width:50%;">Data Science</th>
     </tr>
     <tr>
       <td>Dynamical Systems</td>
