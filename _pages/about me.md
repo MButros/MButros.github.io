@@ -66,10 +66,10 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
   <table style="width:90%; table-layout:fixed; margin:0 auto; border-collapse:collapse;">
     <thead>
       <tr style="border-bottom:4px double currentColor;">
-        <th style="text-align:center; width:50%; font-size:1.3em; padding:12px;">
+        <th style="text-align:left; width:50%; font-size:1.3em; padding:12px;">
           Physics and Mathematics
         </th>
-        <th style="text-align:center; width:50%; font-size:1.3em; padding:12px;">
+        <th style="text-align:left; width:50%; font-size:1.3em; padding:12px;">
           Data Science
         </th>
       </tr>
