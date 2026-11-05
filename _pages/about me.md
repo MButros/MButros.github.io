@@ -64,9 +64,6 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 
 <table style="margin-left:auto; margin-right:auto; width:90%;">
   <tr>
-    <th colspan="2" style="text-align:center;">
-      Academic Interests
-    </th>
   </tr>
   <tr>
     <th style="text-align:center;">Physics and Mathematics</th>
