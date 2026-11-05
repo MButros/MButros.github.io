@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-## Early On
+<h2>Early On</h2> 
 I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle East) when I was two years old.  I completed high school in Jordan and shortly after that I returned to the US to begin my higher education.  While in Jordan I was active in the Boy Scouts, soccer (we call it football though), and basketball.
-
-## Education
 
 
 <h2>Education</h2>
@@ -116,7 +114,7 @@ In the summer of 2022, I began a Faculty Training Program (FTP) at the Artificia
 
 
 
-## Hobbies
+<h2>Hobbies</h2> 
 * Hiking
   * My greatest accomplishment as a hiker came on 10/17/1999 when I hiked the Grand Canyon from the South rim to the North rim.  A       hike which took 11.5 hours.  It was the most difficult and most rewarding adventure I have experienced to date. 
 * Reading
