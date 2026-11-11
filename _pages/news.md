@@ -11,7 +11,7 @@ redirect_from:
 
 ## 2026
 
-* **November 11, 2026:** AL-ALOE Webinar: Building Capacity for GenAI Use in STEM Education Research
+* **November 11, 2026:** AL-ALOE Webinar: [Building Capacity for GenAI Use in STEM Education Research](https://aialoe.org/ai-aloe-webinar-george-veletsianos-seminar-university-of-minnesota/)
 * **November 5, 2026:** AI-Dynamic Systems Seminar: Solution discovery in fluids with high precision using neural networks
 * **November 2, 2026:** [The 2026 Celebrating Distance Teaching and Learning Symposium!](https://ctl.gatech.edu/celebrating-distance-teaching-and-learning-symposium-3/)
 * **October 16, 2026:** AI4OPT News Article: [Expand AI Grant: AIHUB@CAU](https://news.research.gatech.edu/2026/10/15/georgia-tech-partnership-expands-ai-education-cau)
