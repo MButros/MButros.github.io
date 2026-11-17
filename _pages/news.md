@@ -11,6 +11,7 @@ redirect_from:
 
 ## 2026
 
+* **Novermber 17, 2026:** [ASA SLDS Nov Webinar: Better than i.i.d. sampling](https://www.eventbrite.com/e/asa-slds-nov-webinar-lester-mackey-microsoft-tickets-1994723984133?keep_tld=true)
 * **November 12-13, 2026:** AI4OPT Phase II Kickoff and Retreat 2026
 * **November 11, 2026:** AL-ALOE Webinar: [Building Capacity for GenAI Use in STEM Education Research](https://aialoe.org/ai-aloe-webinar-george-veletsianos-seminar-university-of-minnesota/)
 * **November 5, 2026:** AI-Dynamic Systems Seminar: Solution discovery in fluids with high precision using neural networks
