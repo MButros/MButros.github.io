@@ -15,6 +15,7 @@ redirect_from:
   * High School Internship Program - Currently not offered
     
 ## Higher Education Initiatives
+  * Liaison to NSF AI4OPT Student Leadership Council
   * [AI4OPT Faculty Training Program Conference - June 17-18, 2026](https://www.ai4opt.org/news-events/ai4opt-faculty-training-program-conference)
   * [Partnership for Innovation - Hosting Interns](https://pingeorgia.org/)  
   * [Faculty Training Program](https://www.ai4opt.org/education/faculty-training)
